@@ -1,0 +1,169 @@
+ID,YEAR,MONTH,DAY,LATITUDE,LONGITUDE,GEN_LOCATION,DAMAGE,DEATHS,FLOODS
+1,1902,3,17,45.25,-66.07,"Saint John River basin, New Brunswick",0.025,1,Multiple
+2,1904,4,-,50.65,-104.87,"Qu'appelle River basin, Saskatchewan",-,0,Multiple
+3,1904,4,24,49.9,-97.15,"Red River, Manitoba",-,0,Multiple
+4,1909,1,4,45.8,-65.17,"Chester, New Brunswick",0.1,1,Multiple
+5,1912,4,1,43.5,-81,Southern Ontario,0.5,0,Multiple
+6,1913,5,2,49.9,-97.15,"Assiniboine River, Manitoba",-,0,Multiple
+7,1915,-,-,53.6,-110,Border of Alberta/Saskatchewan on North Saskatchewan River,-,0,Multiple
+8,1915,7,8,47.3,-65.5,Northeastern New Brunswick,0.25,0,Single
+9,1916,4,24,49.9,-97.15,"Red River, Manitoba",-,0,Multiple
+10,1916,4,25,45,-79,Central Ontario,1,0,Single
+11,1917,11,28,55.2,-129.1,Northwestern British Columbia,-,0,Single
+12,1920,3,17,45,-76,Southeastern Ontario,0.9,0,Single
+13,1922,-,-,49.9,-97.15,"Winnipeg, Manitoba",-,0,Multiple
+14,1922,6,17,45.25,-66.07,"Saint John River basin, New Brunswick",0.5,0,Multiple
+15,1923,4,-,49.9,-97.15,"Winnipeg, Manitoba",-,0,Multiple
+16,1923,4,29,45.25,-66.07,"Saint John River basin, New Brunswick",3.75,2,Multiple
+17,1925,5,7,64.17,-139.5,"Dawson,Yukon",-,0,Multiple
+18,1928,-,-,46.75,-71.28,"Chaudière River, Quebec",-,3,Multiple
+19,1929,1,18,43.5,-81,Southern Ontario,0.25,0,Multiple
+20,1929,4,5,43.5,-81,Southern Ontario,1.3,0,Multiple
+21,1933,5,4,48,-66.5,New Brunswick and eastern Quebec,-,3,Single
+22,1933,10,25,45.5,-66.5,Southern New Brunswick,-,7,Single
+23,1934,4,16,46.88,-67.37,New Brunswick,0.232,0,Single
+24,1935,1,10,45,-63,Nova Scotia,1,2,Single
+25,1936,3,10,43.5,-81,Southern Ontario,0.35,0,Multiple
+26,1936,3,16,45.25,-66.07,"Saint John River basin, New Brunswick",1.9,0,Multiple
+27,1936,5,29,54.6,-128.4,Northwestern British Columbia,-,0,Single
+28,1936,9,19,45.17,-63,Nova Scotia,0.1,0,Multiple
+29,1937,1,13,43.5,-81,Southern Ontario,-,0,Multiple
+30,1937,4,26,42.98,-81.25,"London, Ontario",4,0,Multiple
+31,1941,8,2,47,-55.67,"Burin Peninsula, Newfoundland",-,2,Single
+32,1942,9,22,46.23,-63.13,"Charlottetown, Prince Edward Island",-,0,Multiple
+33,1947,2,5,45.8,-65.17,"Elgin, New Brunswick",-,2,Multiple
+34,1947,4,5,43.5,-81,Southern Ontario,1.2,0,Multiple
+35,1947,4,30,46.47,-67.58,"Bristol, New Brunswick",-,2,Single
+36,1948,3,16,43.5,-81,Southern Ontario,10,0,Multiple
+37,1948,5,31,49.17,-122.2,"Fraser Lowland, southwestern British Columbia",15,10,Multiple
+38,1948,9,14,47.58,-52.67,"St John's, Newfoundland",-,1,Multiple
+39,1950,3,24,43.5,-80,Southern Ontario,0.1,0,Single
+40,1950,4,4,43,-81.5,Southern Ontario,-,0,Multiple
+41,1950,4,20,45.25,-66.07,"Saint John River Basin, New Brunswick",0.5,0,Multiple
+42,1950,5,5,49.9,-97.15,"Red River, Manitoba",100,1,Multiple
+43,1950,8,22,45.17,-63,Nova Scotia,0,0,Multiple
+44,1952,4,-,49.53,-108.83,"Eastend, Saskatchewan",-,0,Single
+45,1954,2,15,43,-81.5,Southern Ontario,-,0,Multiple
+46,1954,9,11,46.83,-66.5,New Brunswick,0.052,0,Multiple
+47,1954,10,15,43.65,-79.33,Southern Ontario,100,81,Multiple
+48,1956,1,3,45.17,-63,Nova Scotia,5.5,2,Multiple
+49,1956,8,30,43.7,-79.8,Southern Ontario,0.25,0,Single
+50,1957,8,-,46.13,-71.3,"Thetford Mines, Quebec",2,0,Multiple
+51,1960,4,18,49.9,-97.15,"Red River, Manitoba",-,0,Multiple
+52,1960,5,9,45,-78,Southern and central Ontario,1.5,0,Single
+53,1961,5,25,45.25,-66.07,"Saint John River basin, New Brunswick",3.5,1,Multiple
+54,1961,5,30,50,-105,South central Saskatchewan,-,0,Single
+55,1961,8,31,48.47,-81.42,"Timmins, Ontario",-,5,Single
+56,1961,10,10,55,-129.6,Northwestern British Columbia,-,0,Single
+57,1962,3,31,45.8,-65.17,Southeastern New Brunswick,0.26,0,Multiple
+58,1962,4,-,46,-63,Prince Edward Island / Nova Scotia,-,0,Single
+59,1963,5,3,60.85,-115.73,"Hay River, North West Territories",-,0,Multiple
+60,1964,4,16,47.58,-52.67,"St John's, Newfoundland",-,1,Multiple
+61,1964,9,14,45.17,-63,Nova Scotia,-,0,Multiple
+62,1965,-,-,45.8,-73.2,"St Lawrence River, Quebec",-,20,Single
+63,1966,4,14,49.9,-97.15,"Red River, Manitoba",12.2,0,Multiple
+64,1966,11,3,49.2,-68.17,"Baie-Comeau area, Quebec",3,5,Single
+65,1967,10,11,45.17,-63,Nova Scotia,-,0,Multiple
+66,1968,2,2,43.65,-79.33,Southwestern and southern Ontario,0.9,0,Multiple
+67,1969,4,-,50.4,-105.53,"Qu'appelle River basin, Saskatchewan",1.2,0,Single
+68,1969,5,2,49.9,-97.15,"Red River, Manitoba",-,0,Multiple
+69,1969,5,11,47.5,-68,"Iroquois, New Brunswick",-,1,Single
+70,1969,5,19,47.5,-53.5,Newfoundland,-,0,Single
+71,1970,2,2,45.25,-66.07,"Saint John River basin, New Brunswick",4.63,3,Multiple
+72,1970,4,-,46.75,-71.28,Southwestern Quebec,2.3,0,Multiple
+73,1970,4,30,49.9,-97.15,"Red River, Manitoba",-,0,Multiple
+74,1970,6,1,46.5,-84.33,Central Ontario,2.3,0,Single
+75,1971,2,13,45,-63.5,Nova Scotia,-,0,Single
+76,1971,4,-,45.52,-73.57,"Montréal, Quebec",0.8,0,Multiple
+77,1971,5,-,45.25,-73.25,"Saint-Jean, Quebec",1.2,0,Multiple
+78,1971,8,16,44.67,-63.5,"Dartmouth, Nova Scotia",5.1,0,Single
+79,1971,8,27,46.07,-71.93,"Victoriaville, Quebec",0.25,0,Single
+80,1972,4,-,45.47,-73.3,"Richelieu River, Quebec",22,0,Single
+81,1972,5,-,53.92,-122.83,Central and southwestern British Columbia,10,0,Multiple
+82,1972,5,15,48.95,-57.97,"Corner Brook, Newfoundland",-,1,Multiple
+83,1973,4,27,45.25,-66.07,"Saint John River Basin, New Brunswick",11.9,0,Multiple
+84,1974,-,-,50.65,-104.87,South and central Saskatchewan,-,0,Multiple
+85,1974,1,-,46.38,-75.97,Southern Quebec,60,0,Single
+86,1974,4,-,51.5,-98,Central and southern Manitoba,14.5,0,Single
+87,1974,4,-,55,-115,North central Alberta,10,0,Single
+88,1974,5,2,60.85,-115.73,"Hay River, North West Territories",-,0,Multiple
+89,1974,5,17,43.38,-80.25,"Cambridge, Ontario",10,0,Single
+90,1974,7,15,60.1,-128.82,"Watson Lake area, Yukon",-,0,Single
+91,1976,-,-,45.52,-73.57,"Montréal, Quebec",20,0,Multiple
+92,1976,3,31,45.25,-66.07,"Saint John River basin, New Brunswick",2,2,Multiple
+93,1976,4,-,49.9,-97.15,"Assiniboine River, Manitoba",4.5,0,Multiple
+94,1976,5,4,48.93,-55.67,"Grand Falls, Newfoundland",0.5,2,Single
+95,1976,8,10,46.83,-66.5,New Brunswick,-,0,Multiple
+96,1976,8,27,43.65,-79.33,"Toronto, Ontario",1,0,Multiple
+97,1977,3,13,43.65,-79.33,Southern and central Ontario,0.9,0,Multiple
+98,1977,12,27,48.95,-57.97,"Corner Brook, Newfoundland",0.1,0,Multiple
+99,1978,4,-,48.67,-56,Newfoundland,5.2,0,Multiple
+100,1978,7,10,53.5,-113.5,"Edmonton, Alberta",-,0,Multiple
+101,1978,9,7,51.47,-116.27,"Kicking Horse Pass, Alberta",-,0,Single
+102,1978,10,29,54.4,-128.5,Northwestern British Columbia,7,0,Single
+103,1979,3,5,42.98,-81.25,Southwestern Ontario,3.5,0,Multiple
+104,1979,3,26,46.83,-66.5,"Saint John River Basin, New Brunswick",2.1,1,Multiple
+105,1979,4,-,49.42,-97.37,"Red River, Manitoba",18.6,0,Single
+106,1979,4,24,46,-66,New Brunswick,2,0,Single
+107,1979,4,24,46.25,-83.15,Central Ontario,12,0,Single
+108,1979,5,3,64.17,-139.5,"Dawson, Yukon",-,0,Multiple
+109,1979,5,12,48.58,-85.33,Central Ontario,2.5,0,Single
+110,1979,9,6,46.83,-66.5,New Brunswick,0.5,0,Multiple
+111,1979,9,13,46.13,-71.3,Southern Quebec,-,0,Multiple
+112,1980,3,21,44.2,-78,Southern Ontario,11,0,Single
+113,1980,7,17,46.23,-63.13,"Charlottetown, Prince Edward Island",-,0,Multiple
+114,1980,9,1,45.5,-73.42,"Saint-Hubert, Quebec",-,2,Single
+115,1980,12,26,49.8,-123.13,Southwestern British Columbia,13,0,Single
+116,1981,-,-,53.5,-113.5,"Edmonton, Alberta",-,4,Multiple
+117,1981,2,18,44,-78,Southeastern Ontario,0.9,0,Single
+118,1983,1,14,48.5,-56,Newfoundland,34,0,Single
+119,1983,2,27,49,-56,"Badger, Newfoundland",0.089,0,Single
+120,1983,3,19,46.33,-72.93,Southern Quebec,1.5,0,Single
+121,1983,5,10,45.25,-73.25,Southwestern Quebec,2.5,0,Multiple
+122,1983,5,10,45.52,-73.57,"Montréal area, Quebec",7.9,0,Multiple
+123,1983,6,24,53.5,-110,Saskatchewan / Alberta,25,0,Single
+124,1983,7,8,50.45,-104.58,"Regina, Saskatchewan",60,0,Single
+125,1984,1,4,49.17,-122.2,"Lower Fraser River Valley, British Columbia",4,0,Multiple
+126,1984,2,4,48.47,-56,Newfoundland,0.1,0,Single
+127,1984,2,5,45.35,-63.23,"Truro, Nova Scotia",-,1,Single
+128,1984,2,13,43.65,-79.33,Southern Ontario,0.5,2,Multiple
+129,1984,4,25,45.25,-66.07,"Saint John River basin, New Brunswick",-,1,Multiple
+130,1984,6,-,49.9,-97.15,"Winnipeg, Manitoba",-,0,Multiple
+131,1984,10,6,50.42,-122.83,"Pemberton area, British Columbia",4.375,1,Single
+132,1985,2,23,42.4,-82.18,"Chatham, Ontario",0.8,0,Single
+133,1985,5,7,60.85,-115.73,"Hay River, North West Territories",0.618,0,Multiple
+134,1986,3,30,46.75,-71.28,"Riviere Chaudière, Quebec",-,0,Multiple
+135,1986,4,1,46.18,-67.62,"Woodstock area, New Brunswick",-,0,Single
+136,1986,5,-,55.5,-97,Manitoba,-,0,Single
+137,1986,5,16,55.33,-85.25,"Winisk, Ontario",7,2,Single
+138,1986,7,15,52,-113,Central Alberta,30,0,Single
+139,1986,7,16,53.6,-110,Saskatchewan / Alberta,28.3,1,Multiple
+140,1987,3,31,46.73,-67.7,"Perth-Andover, New Brunswick",11,0,Single
+141,1987,4,1,46.75,-71.28,South central Quebec,2,0,Multiple
+142,1987,7,14,45.52,-73.57,"Montréal, Quebec",94,2,Multiple
+143,1987,7,31,56,-120,"Upper Peace River, British Columbia/Alberta",5,0,Single
+144,1988,6,-,55.5,-115.42,"Lesser Slave Lake, Alberta",15,2,Single
+145,1988,6,29,65.28,-126.75,"Mackenzie Valley, North West Territories",6,0,Single
+146,1989,-,-,52.93,-82.4,"Attawapiskat River, Ontario",-,0,Multiple
+147,1989,-,-,42.05,-82.6,"Leamington, Ontario",15,0,Single
+148,1989,7,19,42.03,-82.92,"Harrow, Ontario",35,0,Single
+149,1990,-,-,48.67,-56,Newfoundland,2.9,0,Multiple
+150,1990,5,-,50.5,-113.83,"High River, Alberta",-,0,Single
+151,1990,6,13,50,-120,Southern British Columbia,10,4,Single
+152,1990,11,8,49.42,-124,Southwestern British Columbia,7.5,0,Single
+153,1991,4,7,46.75,-71.28,"Chaudiere River, Quebec",7.5,0,Multiple
+154,1991,10,8,54.5,-128.6,Northwestern British Columbia,3.7,0,Single
+155,1992,2,28,56.25,-117.3,"Peace River, Alberta",3,0,Single
+156,1992,3,12,46.88,-71.12,"Montmorency River, Quebec",-,0,Single
+157,1992,4,25,60.85,-115.73,"Hay River, North West Territories",-,0,Multiple
+158,1992,5,18,52.93,-82.4,"Attawapiskat, Ontario",-,0,Multiple
+159,1992,7,31,43.65,-79.33,"Toronto, Ontario",5,0,Multiple
+160,1992,8,28,43.6,-80.55,"Elmira, Ontario",4,0,Single
+161,1993,7,4,52.5,-100.75,"Swan River, Manitoba",20,0,Single
+162,1993,7,25,49.9,-97.15,"Winnipeg, Manitoba",500,0,Multiple
+163,1996,-,-,48.4,-58.6,"Flat Bay, Newfoundland",-,0,Single
+164,1996,7,-,48.37,-71,Southern Quebec,1000,10,Single
+165,1996,11,29,53.5,-122.73,"Nechako River, British Columbia",-,0,Single
+166,1997,1,9,44.17,-80.82,"Durham, Ontario",-,0,Single
+167,1997,5,-,49.9,-97.15,"Red River, Manitoba",815,3,Multiple
+168,1997,5,-,53.92,-122.83,Central British Columbia,14,0,Multiple
